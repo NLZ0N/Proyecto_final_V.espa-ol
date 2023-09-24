@@ -1,0 +1,2 @@
+Nombre: null
+Puntos: 0
